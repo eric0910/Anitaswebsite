@@ -9,7 +9,7 @@ The website was designed by Eric Kithinji.
 To see my other projects you can use my GitHub username 'eric0920'.
 # Description.
 Anita's Kitchen is a website that contains pictures and details about Anita's kitchen and how you can order food through email.
-You can follow the link to see the deployment of the website
+You can follow the link to see the deployment of the website https://github.com/eric0910/Anitaswebsite.git
 # Technologies.
 The website is designed using HTML.
 It is styled using CSS.
