@@ -1,5 +1,5 @@
 .menu{
-    background-image: url(landing.jpg);
+    background-image: URL(landing.jpg);
     height: 600px;
     width: 60%;
     margin-left: 200px;
@@ -42,7 +42,7 @@ p{
     
 }
 .time{
-    background-color: orangered;
+    background-color: orange-red;
     height:55px;
     width: 15%;
     margin-left: 200px;
@@ -55,7 +55,7 @@ p{
     
 }
 .breakfast{
-    background-image: url(breakfast.jpg) ;
+    background-image: URL(breakfast.jpg) ;
     height:119px;
     width: 16%;
     margin-left: 440px;
@@ -66,10 +66,10 @@ p{
     font-size: 22px;
 }
 .lunch{
-    background-image: url(lunch.jpg);
+    background-image: URL(lunch.jpg);
     height:119px;
     width: 16%;
-    margin-left: 745px;
+    margin-left: 545px;
     padding-top: 36px;
     margin-top: -155px;
     text-align: center;
