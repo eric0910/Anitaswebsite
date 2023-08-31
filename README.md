@@ -22,6 +22,8 @@ git clone https://github.com/eric0910/ Anitas-Kitchen-website.git
 1. Navigate to the project directory:
 cd Anitas-Kitchen-website.
 2. Open the `index.html` file in your browser to view the website.
+Ensure that your PC has at least 4GB RAM.
+Make sure your pc has enough space.
 
 # Lincense.
 
