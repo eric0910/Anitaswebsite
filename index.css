@@ -90,11 +90,11 @@ p{
 .food {
     border: 4px #FFFFFF;
     box-shadow: 3px 3px 5px #888;
-    width: 100%;
+    width: 80%;
     margin-left: 300px;
     margin-top: 50px;
     padding-top: 10px;
-    height: 350px;
+    height: 400px;
 
 }
 .food1{
