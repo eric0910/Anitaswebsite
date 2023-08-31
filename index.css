@@ -45,7 +45,7 @@ p{
     background-color: orange-red;
     height:55px;
     width: 15%;
-    margin-left: 300px;
+    margin-left: 200px;
     font-family: sans-serif;
     text-align: center;
     font-size:22px;
@@ -58,7 +58,7 @@ p{
     background-image: URL(breakfast.jpg) ;
     height:119px;
     width: 16%;
-    margin-left: 400px;
+    margin-left: 480px;
     padding-top: 35px;
     margin-top: -156px;
     text-align: center;
@@ -69,7 +69,7 @@ p{
     background-image: URL(lunch.jpg);
     height:119px;
     width: 16%;
-    margin-left: 645px;
+    margin-left: 600px;
     padding-top: 36px;
     margin-top: -155px;
     text-align: center;
@@ -80,7 +80,7 @@ p{
     background-image: URL(dinner.jpg);
     height: 135px;
     width: 13%;
-    margin-left: 926px;
+    margin-left: 826px;
     margin-top: -155px;
     text-align: center;
     color: white;
